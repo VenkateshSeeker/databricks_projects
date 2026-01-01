@@ -103,7 +103,7 @@ Medallion architecture best practices
 
 📬 Contact
 
-Venkatesh
+Bandaru Venkatesh Rao
 📍 Aspiring Data Engineer
 🔗 LinkedIn: https://www.linkedin.com/in/bandaru-venkatesh-rao-490bb2308/
 📧 Email: raovenkatesh036@gmail.com
